@@ -1,0 +1,6 @@
+[submodule "tmux-nova"]
+	path = tmux-nova
+	url = gucciwang123:gucciwang123/tmux-nova
+[submodule "tmux-cpu"]
+	path = tmux-cpu
+	url = https://github.com/tmux-plugins/tmux-cpu.git
